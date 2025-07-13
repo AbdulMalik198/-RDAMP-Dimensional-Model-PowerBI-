@@ -5,6 +5,7 @@ It explores product seasonality, discount impact, order value trends, customer p
 
 ##  Project Star Schema
 ### Star Schema Diagram
+https://github.com/AbdulMalik198/-RDAMP-Dimensional-Model-PowerBI-/blob/main/Abdulmalik%20Alegimenlen%20Star%20Schema%20Diagram.png?raw=true
 
 ##    Purpose of Each Table
 ###   fact_sales
