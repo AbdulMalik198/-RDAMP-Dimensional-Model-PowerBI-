@@ -85,5 +85,6 @@ Clicked Load to import your clean, ready-to-query data model into Power BI.
 
 ##  Dashboard Insights 
 
+<img width="1311" height="729" alt="image" src="https://github.com/user-attachments/assets/eb97fb30-aa82-4b8c-a590-e371e52ad586" />
 
 
